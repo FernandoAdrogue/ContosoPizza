@@ -1,0 +1,19 @@
+.vscode
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore project-specific files
+*.csproj.user
+*.csproj.vspscc
